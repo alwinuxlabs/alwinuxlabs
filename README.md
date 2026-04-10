@@ -28,6 +28,12 @@ Lightweight PowerShell tool for rapid incident response collection.
 
 📂 https://github.com/alwinuxlabs/windows-dfir-triage
 
+### 🔹 MacOS DFIR Triage Script
+
+Lightweight zsh-based DFIR triage script for rapid incident response collection on macOS systems.
+
+📂 https://github.com/alwinuxlabs/macos_dfir_triage
+
 ---
 
 ## 🧰 Skills & Tools
