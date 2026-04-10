@@ -1,0 +1,56 @@
+# 👋 Hi, I'm Alwin
+
+🚀 DFIR | Incident Response | Forensics Engineering
+
+---
+
+## 🔍 About Me
+
+* 💻 Passionate about **Digital Forensics & Incident Response (DFIR)**
+* 🧠 Currently learning and building **forensics engineering tools**
+* ⚙️ Working with **Velociraptor, PowerShell, and automation**
+* 🔥 Turning knowledge into **real-world DFIR tools**
+
+---
+
+## 🚨 Featured Project
+
+### 🔹 Windows DFIR Triage Script
+
+Lightweight PowerShell tool for rapid incident response collection.
+
+📂 https://github.com/alwinuxlabs/windows-dfir-triage
+
+---
+
+## 🧰 Skills & Tools
+
+* 🖥️ Windows Forensics
+* 🔍 Incident Response
+* ⚡ PowerShell Automation
+* 🧠 Threat Hunting
+* ☁️ Cloud (AWS / GCP Security)
+* 🧪 Velociraptor
+* 🧪 Magnet Axiom
+* 🧪 FTK
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=alwinuxlabs\&show_icons=true\&theme=dark)
+
+---
+
+## 🔥 Current Focus
+
+* Building DFIR automation tools
+* Learning advanced forensic techniques
+* Creating content for DFIR community
+
+---
+
+## 🙌 Connect
+
+Let’s connect and grow in DFIR together!
+
