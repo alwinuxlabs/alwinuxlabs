@@ -1,4 +1,6 @@
-![banner](https://via.placeholder.com/1000x200?text=Alwinux+DFIR+Labs)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Alwinux%20DFIR%20Labs&fontSize=40&fontColor=ffffff" />
+</p>
 # 👋 Hi, I'm Alwin
 
 🚀 DFIR | Digital Forensics & Incident Response | Engineering
