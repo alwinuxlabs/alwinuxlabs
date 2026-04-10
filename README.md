@@ -54,5 +54,7 @@ Lightweight PowerShell tool for rapid incident response collection.
 
 ## 🙌 Connect
 
+- 💬 Discord: alwinux  
+
 Let’s connect and grow in DFIR together!
 
