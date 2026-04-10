@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Alwin
 
-🚀 DFIR | Digital Forensics & Incident Response | Engineering
+🧠 Growing in Digital Forensics & Incident Response
 
 ---
 
