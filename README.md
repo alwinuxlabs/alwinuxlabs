@@ -40,11 +40,6 @@ Lightweight PowerShell tool for rapid incident response collection.
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=alwinuxlabs&show_icons=true&theme=dark)
-
----
 
 ## 🔥 Current Focus
 
